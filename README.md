@@ -53,7 +53,7 @@ For more details see [Access Microsoft Defender for Cloud Apps with application 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/alexverboon/Defender-for-Cloud-Apps---Toolbox.git
+   git clone https://github.com/alexverboon/Defender-for-Cloud-Apps-Toolbox.git
    ```
 
 2. Import the required functions into your PowerShell session:
