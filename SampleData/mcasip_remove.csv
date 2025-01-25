@@ -1,0 +1,3 @@
+"id","name","category","organization","subnets","tags"
+"679545caa6719ef58b9f5e9c","Baden Office IP Range","1",,"10.2.1.0/24","Cloud Infrastructure;Azure"
+"679545ca04f847be558886bf","Baden Internet Breakout Point","1",,"203.2.58.42/32","Internet Breakout;Public IP"

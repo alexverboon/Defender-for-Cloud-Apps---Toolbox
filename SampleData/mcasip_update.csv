@@ -1,0 +1,3 @@
+"id","name","category","organization","subnets","tags"
+"679545ccfff1cbd9ac240497","Dublin Internet Breakout Point","1",,"203.4.66.225/32","Internet Breakout;Public IP;Update"
+"679545ccd67411aac3282397","Barcelona Internet Breakout Point","1",,"203.5.217.219/32","Internet Breakout;Public IP;Update"

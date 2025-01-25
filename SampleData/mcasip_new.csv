@@ -1,0 +1,13 @@
+name,category,organization,subnets,tags
+Redmond Office IP Range,1,,10.0.1.0/24;10.0.2.0/24;10.0.3.0/24,Data Center;Backup
+Redmond Internet Breakout Point,1,,203.0.231.71/32,Internet Breakout;Public IP
+Amsterdam Office IP Range,1,,10.1.1.0/24;10.1.2.0/24,Cloud Infrastructure;Azure
+Amsterdam Internet Breakout Point,1,,203.1.55.122/32,Internet Breakout;Public IP
+Baden Office IP Range,1,,10.2.1.0/24,Cloud Infrastructure;Azure
+Baden Internet Breakout Point,1,,203.2.58.42/32,Internet Breakout;Public IP
+Perth Office IP Range,1,,10.3.1.0/24;10.3.2.0/24,R&D Facility;Lab
+Perth Internet Breakout Point,1,,203.3.118.70/32,Internet Breakout;Public IP
+Dublin Office IP Range,1,,10.4.1.0/24;10.4.2.0/24;10.4.3.0/24,Cloud Infrastructure;Azure
+Dublin Internet Breakout Point,1,,203.4.66.225/32,Internet Breakout;Public IP
+Barcelona Office IP Range,1,,10.5.1.0/24;10.5.2.0/24;10.5.3.0/24,Headquarters;Main Office
+Barcelona Internet Breakout Point,1,,203.5.217.219/32,Internet Breakout;Public IP
